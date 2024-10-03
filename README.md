@@ -1,0 +1,3 @@
+- Luigi Netto Borsoi - 24.00116-3
+- Enzo Segala Gomes - 23.10084-2
+- Guilherme Murbach Volpolini - 24.00212-7
